@@ -1,6 +1,6 @@
 # Installation
 
-This guide covers the prerequisites and steps to set up the `variational-learning-benchmark` environment.
+This guide covers the prerequisites and steps to set up the **Variational Learning Playground** environment.
 
 ## Prerequisites
 
@@ -13,10 +13,12 @@ This guide covers the prerequisites and steps to set up the `variational-learnin
 Clone the repository and install dependencies using `uv`:
 
 ```bash
-git clone https://github.com/adrianrob1/variational-learning-benchmark.git
-cd variational-learning-benchmark
+git clone https://github.com/adrianrob1/variational-learning-playground.git
+cd variational-learning-playground
 uv sync
 ```
+
+For more advanced usage of `uv`, including how to add dependencies or update the environment, see the [UV Guide](uv.md).
 
 ## Optional: FFCV Support
 

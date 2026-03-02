@@ -1,11 +1,11 @@
-# Variational Learning Benchmark
+# Variational Learning Playground
 
-A comprehensive toolkit for benchmarking variational inference and standard optimization methods in deep learning.
+A playground and experimental space for testing variational learning methods. The core benchmarking engine is powered by the `variational-learning-benchmark` (`vlbench`) package.
 
 ## Quick Start
 
 ### 1. Installation
-Ensure you have `uv` installed, then sync the environment:
+Ensure you have `uv` installed, then sync the environment. See the [UV Guide](docs/uv.md) for help with `uv`.
 ```bash
 uv sync
 ```
@@ -33,6 +33,7 @@ uv run python -m vlbench.indomain.train method=ivon model=resnet20 dataset=cifar
 ## Documentation
 
 - [Installation Guide](docs/installation.md)
+- [UV Guide (Environment Management)](docs/uv.md)
 - [Getting Started](docs/getting_started.md)
 - [Hydra Configuration Guide](docs/hydra.md)
 - [Task Guides](docs/tasks/index.md)

@@ -1,6 +1,6 @@
 # Getting Started
 
-The `variational-learning-benchmark` (vlbench) is a comprehensive toolkit for evaluating variational inference and standard optimization methods in deep learning.
+The **Variational Learning Playground** is an experimental space for testing variational learning methods. It is built upon the `variational-learning-benchmark` (`vlbench`) toolkit, which provides the core benchmarking engine and standardized interfaces.
 
 ## Core Philosophy
 
@@ -21,6 +21,8 @@ Most tasks in `vlbench` follow this pattern:
    ```bash
    uv run python -m vlbench.<task_area>.test traindir=...
    ```
+
+For more details on using `uv` for environment management and running scripts, see the [UV Guide](uv.md).
 
 ## Next Steps
 

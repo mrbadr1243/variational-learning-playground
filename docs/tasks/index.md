@@ -1,6 +1,6 @@
 # Tasks Index
 
-The `variational-learning-benchmark` supports several evaluation tasks, each with its own setup and scripts. Below is an index of all supported tasks and their corresponding guides:
+The **Variational Learning Playground** supports several evaluation tasks, each with its own setup and scripts. Below is an index of all supported tasks and their corresponding guides:
 
 - [In-Domain Training and Evaluation](in_domain.md): Standard Training/Eval (CIFAR, TinyImageNet) 
 - [Out-Of-Distribution Evaluation](ood.md): Out-of-Distribution (SVHN, Flowers102) using In-Domain Checkpoints

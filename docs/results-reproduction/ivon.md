@@ -1,6 +1,6 @@
 # Reproducing Results from `ivon-experiments`
 
-This document details how to reproduce the experiments from the [IVON (Improved Variational Online Newton)](https://github.com/team-approx-bayes/ivon) paper using the `variational-learning-benchmark`. 
+This document details how to reproduce the experiments from the [IVON (Improved Variational Online Newton)](https://github.com/team-approx-bayes/ivon) paper using the **Variational Learning Playground**. 
 
 The benchmark integrates the `ivon` optimizer and the necessary models (e.g., `resnet20`, `preresnet110`, `densenet121`, `resnet18wide`) to run the experiments reported in the paper.
 

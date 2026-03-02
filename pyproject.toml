@@ -1,7 +1,7 @@
 [project]
 name = "variational-learning-benchmark"
 version = "0.1.0"
-description = "Variational Learning Benchmarks"
+description = "Variational Learning Playground (Benchmark Toolkit)"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
